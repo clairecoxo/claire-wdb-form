@@ -9,17 +9,9 @@ body {
     background-color: #0b0e2f;
 }
 
-.main-nav {
-    background-color: #B1E5F2;
-    border-radius: 6px;
-    margin: .5em auto .5em auto;
-    min-height: 5em;
-    width: 80%;
-}
 
 article {
     background-color: white;
-    border-radius: 6px;
     margin: 0 auto;
     min-height: 50em;
     position: relative;
@@ -28,7 +20,6 @@ article {
 
 .site-info {
     background-color: #B1E5F2;
-    border-radius: 6px;
     /*clear: both;*/
     margin: .5em auto 5em auto;
     min-height: 5em;
@@ -87,7 +78,6 @@ label {
 fieldset {
     background-color: #CECECE;
     border: none;
-    border-radius: 6px;
     margin-bottom: 20px;
     padding: .1em 1em 1em 1.5em;
 }
