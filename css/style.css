@@ -16,6 +16,9 @@ article {
     min-height: 50em;
     position: relative;
     width: 40%;
+    margin-top: 20%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .site-info {
