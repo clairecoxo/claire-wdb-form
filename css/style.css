@@ -23,7 +23,7 @@ article {
     margin: 0 auto;
     min-height: 50em;
     position: relative;
-    width: 80%;
+    width: 40%;
 }
 
 .site-info {
@@ -36,7 +36,7 @@ article {
 }
 
 article .form-heading {
-    color: #fff;
+    color: #000;
     font-size: 1.5em;
     margin-left: 2em;
     padding-top: 1em;
@@ -44,7 +44,7 @@ article .form-heading {
 }
 
 .form-text {
-    color: #fff;
+    color: #000;
     display: block;
     margin: 0 auto 2.5em auto;
     padding-top: 10px;
