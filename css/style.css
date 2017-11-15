@@ -6,6 +6,7 @@ body {
     margin: 0 auto;
     max-width: 60em;
     min-width: 40em;
+    background-color: #0b0e2f;
 }
 
 .main-nav {
@@ -17,8 +18,7 @@ body {
 }
 
 article {
-    /*Add a gradient to the box background*/
-    background-color: #E8E9F3;
+    background-color: white;
     border-radius: 6px;
     margin: 0 auto;
     min-height: 50em;
