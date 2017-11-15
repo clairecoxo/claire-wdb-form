@@ -76,10 +76,9 @@ label {
 }
 
 fieldset {
-    background-color: #CECECE;
-    border: none;
-    margin-bottom: 20px;
-    padding: .1em 1em 1em 1.5em;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .fields .row {
